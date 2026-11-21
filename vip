@@ -1,0 +1,5 @@
+import {suresh} from "./vipin";
+console.log(suresh);
+
+
+ 
